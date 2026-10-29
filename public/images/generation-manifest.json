@@ -1,0 +1,284 @@
+{
+  "mode": "built-in image_gen",
+  "style": "soft 3D clay illustration, rounded friendly shapes, matte materials, pastel palette sky blue #3BA7F5, lavender #9B8AFB, blush pink #F5A3C7, mint #5FD3B0, warm yellow #FFC96B, warm off-white #FBFAF7, soft diffused studio lighting, gentle ambient-occlusion shadows, clean composition, calm encouraging educational mood, high detail, no text, no letters, no numbers, no logos, no watermark",
+  "hero_reference": "hero/hero-student-robot.png",
+  "assets": [
+    {
+      "name": "hero/hero-student-robot",
+      "width": 1600,
+      "height": 1200,
+      "transparent": true,
+      "prompt": "Two Central Asian teenagers, girl and boy, about 15, modest clothes, building a breadboard circuit with laptop and friendly round AI robot at a rounded desk, floating bulb, gear, lightning, check icons.",
+      "alt": "Noutbuk yonida elektronika loyihasini yaratayotgan ikki o‘quvchi va do‘stona AI robot."
+    },
+    {
+      "name": "features/ai-tutor",
+      "width": 800,
+      "height": 800,
+      "transparent": true,
+      "prompt": "A friendly round AI robot tutor holding a small glowing map with a winding dotted path and milestone flags, a speech bubble with a light bulb above it.",
+      "alt": "Shaxsiy o‘quv xaritasini ushlab turgan AI ustoz roboti."
+    },
+    {
+      "name": "features/video-lessons",
+      "width": 800,
+      "height": 800,
+      "transparent": true,
+      "prompt": "A rounded tablet screen showing a big play button, with a floating quiz card next to it containing three answer pills, one highlighted mint green with a check mark.",
+      "alt": "Videodars va mini test tasvirlangan planshet."
+    },
+    {
+      "name": "features/virtual-lab",
+      "width": 800,
+      "height": 800,
+      "transparent": true,
+      "prompt": "A breadboard with a microcontroller board, resistors, jumper wires and a glowing LED, a small battery, a magnifying glass hovering over it, floating sparkles.",
+      "alt": "LED chirog‘i yonib turgan virtual elektronika laboratoriyasi."
+    },
+    {
+      "name": "features/ai-tests",
+      "width": 800,
+      "height": 800,
+      "transparent": true,
+      "prompt": "A clipboard with a test sheet showing check-box rows, a pencil, and a small bar chart with three pastel bars rising, a tiny robot face sticker on the clipboard.",
+      "alt": "Test kataklari va natijalar diagrammasi tushirilgan planshet."
+    },
+    {
+      "name": "features/gamification",
+      "width": 800,
+      "height": 800,
+      "transparent": true,
+      "prompt": "A golden trophy cup with a star, surrounded by floating coins, small stars, a flame badge and a ribbon medal.",
+      "alt": "Yulduzli oltin kubok va yutuq medallari."
+    },
+    {
+      "name": "steps/organ",
+      "width": 600,
+      "height": 600,
+      "transparent": true,
+      "prompt": "An open book with a glowing light bulb rising out of its pages, small floating abstract geometric symbols, no real letters.",
+      "alt": "Sahifalari ustida bilim chirog‘i porlayotgan ochiq kitob."
+    },
+    {
+      "name": "steps/sinab-kor",
+      "width": 600,
+      "height": 600,
+      "transparent": true,
+      "prompt": "Two anatomically correct hands of a teenager placing a jumper wire into a breadboard, an LED lighting up, small spark effect. Hands and circuit only.",
+      "alt": "Maket platasiga sim ulab, LED chirog‘ini yoqayotgan o‘quvchi qo‘llari."
+    },
+    {
+      "name": "steps/yarat",
+      "width": 600,
+      "height": 600,
+      "transparent": true,
+      "prompt": "A small finished DIY robot on wheels with a sensor head, standing proudly on a little pedestal with confetti around it.",
+      "alt": "Taglik ustida turgan o‘quvchi yasagan g‘ildirakli robot."
+    },
+    {
+      "name": "problem/curious-student",
+      "width": 900,
+      "height": 900,
+      "transparent": true,
+      "prompt": "A Central Asian teenage student in modest clothes sitting in front of a generic video player screen, looking confused and thoughtful, hand on chin, floating soft question marks around head. Screen shows abstract complex circuit diagram. Gentle empathetic mood, not sad.",
+      "alt": "Murakkab elektr sxemasini ko‘rib o‘yga tolgan o‘quvchi."
+    },
+    {
+      "name": "schools/teacher-dashboard",
+      "width": 1400,
+      "height": 1000,
+      "transparent": false,
+      "prompt": "A bright friendly classroom: a female Central Asian teacher standing next to a large wall screen showing abstract progress charts and colorful bars, several teenage students, girls and boys equally represented in modest clothes at desks using tablets, small electronics kits on desks. Wide view, cozy, plants by window. Full background very light cream #FBFAF7 to light blue gradient.",
+      "alt": "O‘quvchilar natijalarini kuzatayotgan o‘qituvchi va yorug‘ texnologiya sinfxonasi."
+    },
+    {
+      "name": "courses/elektronika",
+      "width": 1200,
+      "height": 750,
+      "transparent": false,
+      "prompt": "Resistors, capacitors, glowing LED and multimeter arranged neatly, blank screen without numbers or markings. Centered object scene with light breathing space at sides. Full #E4F3FE background.",
+      "alt": "Rezistor, kondensator, LED va multimetr."
+    },
+    {
+      "name": "courses/arduino",
+      "width": 1200,
+      "height": 750,
+      "transparent": false,
+      "prompt": "A generic microcontroller board without logo connected to a servo motor and LED strip. Centered object scene with light breathing space at sides. Full #E2F8F1 background.",
+      "alt": "Servo motor va LED tasmasiga ulangan mikrokontroller platasi."
+    },
+    {
+      "name": "courses/robototexnika",
+      "width": 1200,
+      "height": 750,
+      "transparent": false,
+      "prompt": "A cute wheeled robot with robotic arm picking up a cube. Centered object scene with light breathing space at sides. Full #EFECFF background.",
+      "alt": "Robot qo‘li bilan kubikni ko‘tarayotgan g‘ildirakli robot."
+    },
+    {
+      "name": "courses/fizika",
+      "width": 1200,
+      "height": 750,
+      "transparent": false,
+      "prompt": "A pendulum, magnet with field lines, prism splitting light into a pastel rainbow. Centered object scene with light breathing space at sides. Full #FFF4DC background.",
+      "alt": "Mayatnik, magnit va yorug‘likni kamalakka ajratayotgan prizma."
+    },
+    {
+      "name": "courses/3d-modellash",
+      "width": 1200,
+      "height": 750,
+      "transparent": false,
+      "prompt": "A small 3D printer printing a gear, wireframe cube floating above. Centered object scene with light breathing space at sides. Full #FDEAF3 background.",
+      "alt": "Tishli g‘ildirak chop etayotgan 3D printer va kub modeli."
+    },
+    {
+      "name": "courses/dasturlash",
+      "width": 1200,
+      "height": 750,
+      "transparent": false,
+      "prompt": "A laptop with abstract colorful code blocks, no readable text, and a tiny robot reading them. Centered object scene with light breathing space at sides. Full light blue-lavender background.",
+      "alt": "Rangli dastur bloklari ko‘rsatilgan noutbuk yonidagi robot."
+    },
+    {
+      "name": "team/zilola-a",
+      "width": 512,
+      "height": 512,
+      "transparent": false,
+      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional project manager, shoulders up, smiling, holding notebook or tablet, confident. Without head covering, neatly styled dark hair. Full pastel #E4F3FE background, fits inside circular crop.",
+      "alt": "Loyiha menejeri Zilolaning hijobsiz stilizatsiyalangan avatari."
+    },
+    {
+      "name": "team/zilola-b",
+      "width": 512,
+      "height": 512,
+      "transparent": false,
+      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional project manager, shoulders up, smiling, holding notebook or tablet, confident. Wearing a modest hijab headscarf. Full pastel #E4F3FE background, fits inside circular crop.",
+      "alt": "Loyiha menejeri Zilolaning hijobli stilizatsiyalangan avatari."
+    },
+    {
+      "name": "team/rayxona-a",
+      "width": 512,
+      "height": 512,
+      "transparent": false,
+      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional marketer, shoulders up, smiling, with small megaphone. Without head covering, neatly styled dark hair. Full pastel #FDEAF3 background, fits inside circular crop.",
+      "alt": "Marketolog Rayxonaning hijobsiz stilizatsiyalangan avatari."
+    },
+    {
+      "name": "team/rayxona-b",
+      "width": 512,
+      "height": 512,
+      "transparent": false,
+      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional marketer, shoulders up, smiling, with small megaphone. Wearing a modest hijab headscarf. Full pastel #FDEAF3 background, fits inside circular crop.",
+      "alt": "Marketolog Rayxonaning hijobli stilizatsiyalangan avatari."
+    },
+    {
+      "name": "team/durdona-a",
+      "width": 512,
+      "height": 512,
+      "transparent": false,
+      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional developer, shoulders up, smiling, with laptop and headphones. Without head covering, neatly styled dark hair. Full pastel #EFECFF background, fits inside circular crop.",
+      "alt": "Dasturchi Durdonaning hijobsiz stilizatsiyalangan avatari."
+    },
+    {
+      "name": "team/durdona-b",
+      "width": 512,
+      "height": 512,
+      "transparent": false,
+      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional developer, shoulders up, smiling, with laptop and headphones. Wearing a modest hijab headscarf. Full pastel #EFECFF background, fits inside circular crop.",
+      "alt": "Dasturchi Durdonaning hijobli stilizatsiyalangan avatari."
+    },
+    {
+      "name": "app/tutor-avatar",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "prompt": "Head of the same friendly round AI robot from the hero, front view, glowing face screen with two happy oval eyes and a small smile, tiny antenna with a light bulb tip.",
+      "alt": "Tabassum qilayotgan AI ustoz robotining avatari."
+    },
+    {
+      "name": "app/badges/first-lesson",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "prompt": "One rounded medal with ribbon tails, central icon of open book, main color sky blue. Consistent medal shape and proportions across badge family.",
+      "alt": "Birinchi dars uchun kitobli medal."
+    },
+    {
+      "name": "app/badges/streak-7",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "prompt": "One rounded medal with ribbon tails, central icon of flame, main color warm yellow and blush pink. Consistent medal shape and proportions across badge family.",
+      "alt": "Yetti kunlik davomiylik uchun alangali medal."
+    },
+    {
+      "name": "app/badges/circuit-master",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "prompt": "One rounded medal with ribbon tails, central icon of glowing LED, main color mint green. Consistent medal shape and proportions across badge family.",
+      "alt": "Elektr zanjiri ustasi uchun LED chiroqli medal."
+    },
+    {
+      "name": "app/badges/test-champion",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "prompt": "One rounded medal with ribbon tails, central icon of check mark and star, main color lavender. Consistent medal shape and proportions across badge family.",
+      "alt": "Test chempioni uchun yulduzli medal."
+    },
+    {
+      "name": "app/badges/project-author",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "prompt": "One rounded medal with ribbon tails, central icon of tiny robot, main color blush pink. Consistent medal shape and proportions across badge family.",
+      "alt": "Loyiha muallifi uchun robotli medal."
+    },
+    {
+      "name": "app/badges/explorer",
+      "width": 256,
+      "height": 256,
+      "transparent": true,
+      "prompt": "One rounded medal with ribbon tails, central icon of magnifying glass, main color sky blue and mint. Consistent medal shape and proportions across badge family.",
+      "alt": "Izlanuvchi uchun lupali medal."
+    },
+    {
+      "name": "auth/welcome",
+      "width": 1000,
+      "height": 1200,
+      "transparent": true,
+      "prompt": "A cheerful Central Asian teenage student in modest clothes waving hello, standing next to same friendly AI robot who holds a glowing key, a small floating door made of light behind them, welcoming mood. Vertical composition.",
+      "alt": "Salom berayotgan o‘quvchi va nurli kalit ushlagan AI robot."
+    },
+    {
+      "name": "empty/no-courses",
+      "width": 500,
+      "height": 500,
+      "transparent": true,
+      "prompt": "An empty cardboard box with the same small AI robot peeking inside curiously.",
+      "alt": "Bo‘sh karton quti ichiga qiziqib qarayotgan AI robot."
+    },
+    {
+      "name": "empty/no-results",
+      "width": 500,
+      "height": 500,
+      "transparent": true,
+      "prompt": "The same small AI robot holding a magnifying glass, searching, a few soft dotted circles around.",
+      "alt": "Lupa bilan natijalarni qidirayotgan AI robot."
+    },
+    {
+      "name": "../og-image",
+      "width": 1200,
+      "height": 630,
+      "transparent": false,
+      "prompt": "Wide banner: right side contains hero scene of two Central Asian teenagers in modest clothes, laptop, circuit, same friendly AI robot; left 55% empty soft cream #FBFAF7 space with blurred pastel blobs of sky blue, lavender and pink, reserved for text added later. Full background.",
+      "alt": "Muhandis AI uchun o‘quvchilar va robot tasvirlangan ulashish banneri."
+    }
+  ],
+  "logo": {
+    "source": "components/brand/logo.tsx",
+    "export": "brand/logo-mark.svg",
+    "note": "Existing vector mark exported to PNG/WebP to preserve brand consistency."
+  }
+}
