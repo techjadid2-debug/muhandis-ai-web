@@ -177,16 +177,6 @@ export const uz = {
     note: "Narxlar namunaviy — yakuniy tariflar ishga tushirishdan oldin e’lon qilinadi.",
   },
 
-  team: {
-    eyebrow: "Jamoa",
-    title: "Muhandis AI ortidagi jamoa",
-    members: [
-      { name: "Zilola Toshpo‘latova", role: "Project manager", tone: "sky", image: "/images/team/zilola.png" },
-      { name: "Rayxona Xalimova", role: "Marketolog", tone: "blush", image: "/images/team/rayxona.png" },
-      { name: "Durdona Mo‘ydinjonova", role: "Dasturchi", tone: "lavender", image: "/images/team/durdona.png" },
-    ] satisfies { name: string; role: string; tone: Tone; image: string }[],
-  },
-
   faq: {
     eyebrow: "Savollar",
     title: "Ko‘p beriladigan savollar",
@@ -215,7 +205,7 @@ export const uz = {
     },
     columns: [
       { title: "Platforma", links: [{ href: "/#imkoniyatlar", label: "Imkoniyatlar" }, { href: "/kurslar", label: "Kurslar" }, { href: "/laboratoriya", label: "Virtual laboratoriya" }, { href: "/narxlar", label: "Narxlar" }] },
-      { title: "Hamkorlik", links: [{ href: "/maktablar", label: "Maktablar uchun" }, { href: "/#jamoa", label: "Jamoa" }, { href: "/#savollar", label: "Savollar" }] },
+      { title: "Hamkorlik", links: [{ href: "/maktablar", label: "Maktablar uchun" }, { href: "/#savollar", label: "Savollar" }] },
     ],
     copyright: "© 2026 Muhandis AI. Barcha huquqlar himoyalangan.",
   },

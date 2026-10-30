@@ -140,54 +140,6 @@
       "alt": "Rangli dastur bloklari ko‘rsatilgan noutbuk yonidagi robot."
     },
     {
-      "name": "team/zilola-a",
-      "width": 512,
-      "height": 512,
-      "transparent": false,
-      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional project manager, shoulders up, smiling, holding notebook or tablet, confident. Without head covering, neatly styled dark hair. Full pastel #E4F3FE background, fits inside circular crop.",
-      "alt": "Loyiha menejeri Zilolaning hijobsiz stilizatsiyalangan avatari."
-    },
-    {
-      "name": "team/zilola-b",
-      "width": 512,
-      "height": 512,
-      "transparent": false,
-      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional project manager, shoulders up, smiling, holding notebook or tablet, confident. Wearing a modest hijab headscarf. Full pastel #E4F3FE background, fits inside circular crop.",
-      "alt": "Loyiha menejeri Zilolaning hijobli stilizatsiyalangan avatari."
-    },
-    {
-      "name": "team/rayxona-a",
-      "width": 512,
-      "height": 512,
-      "transparent": false,
-      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional marketer, shoulders up, smiling, with small megaphone. Without head covering, neatly styled dark hair. Full pastel #FDEAF3 background, fits inside circular crop.",
-      "alt": "Marketolog Rayxonaning hijobsiz stilizatsiyalangan avatari."
-    },
-    {
-      "name": "team/rayxona-b",
-      "width": 512,
-      "height": 512,
-      "transparent": false,
-      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional marketer, shoulders up, smiling, with small megaphone. Wearing a modest hijab headscarf. Full pastel #FDEAF3 background, fits inside circular crop.",
-      "alt": "Marketolog Rayxonaning hijobli stilizatsiyalangan avatari."
-    },
-    {
-      "name": "team/durdona-a",
-      "width": 512,
-      "height": 512,
-      "transparent": false,
-      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional developer, shoulders up, smiling, with laptop and headphones. Without head covering, neatly styled dark hair. Full pastel #EFECFF background, fits inside circular crop.",
-      "alt": "Dasturchi Durdonaning hijobsiz stilizatsiyalangan avatari."
-    },
-    {
-      "name": "team/durdona-b",
-      "width": 512,
-      "height": 512,
-      "transparent": false,
-      "prompt": "Stylized 3D-clay avatar, not real portrait, young Uzbek woman professional developer, shoulders up, smiling, with laptop and headphones. Wearing a modest hijab headscarf. Full pastel #EFECFF background, fits inside circular crop.",
-      "alt": "Dasturchi Durdonaning hijobli stilizatsiyalangan avatari."
-    },
-    {
       "name": "app/tutor-avatar",
       "width": 256,
       "height": 256,

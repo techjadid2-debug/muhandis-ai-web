@@ -17,12 +17,6 @@
 `public/images/courses/fizika.png` — Mayatnik, magnit va yorug‘likni kamalakka ajratayotgan prizma.
 `public/images/courses/3d-modellash.png` — Tishli g‘ildirak chop etayotgan 3D printer va kub modeli.
 `public/images/courses/dasturlash.png` — Rangli dastur bloklari ko‘rsatilgan noutbuk yonidagi robot.
-`public/images/team/zilola-a.png` — Loyiha menejeri Zilolaning hijobsiz stilizatsiyalangan avatari.
-`public/images/team/zilola-b.png` — Loyiha menejeri Zilolaning hijobli stilizatsiyalangan avatari.
-`public/images/team/rayxona-a.png` — Marketolog Rayxonaning hijobsiz stilizatsiyalangan avatari.
-`public/images/team/rayxona-b.png` — Marketolog Rayxonaning hijobli stilizatsiyalangan avatari.
-`public/images/team/durdona-a.png` — Dasturchi Durdonaning hijobsiz stilizatsiyalangan avatari.
-`public/images/team/durdona-b.png` — Dasturchi Durdonaning hijobli stilizatsiyalangan avatari.
 `public/images/app/tutor-avatar.png` — Tabassum qilayotgan AI ustoz robotining avatari.
 `public/images/app/badges/first-lesson.png` — Birinchi dars uchun kitobli medal.
 `public/images/app/badges/streak-7.png` — Yetti kunlik davomiylik uchun alangali medal.
@@ -35,8 +29,5 @@
 `public/images/empty/no-results.png` — Lupa bilan natijalarni qidirayotgan AI robot.
 `public/og-image.png` — Muhandis AI ulashish banneri: elektronika loyihasini yaratayotgan o‘g‘il, sochi yig‘ilgan qiz va AI robot.
 `public/images/brand/logo-mark.png` — Muhandis AI: pastel rangli fon ustidagi oq elektron zanjir belgisi.
-`public/images/team/zilola.png` — Loyiha menejeri Zilolaning stilizatsiyalangan avatari.
-`public/images/team/rayxona.png` — Marketolog Rayxonaning stilizatsiyalangan avatari.
-`public/images/team/durdona.png` — Dasturchi Durdonaning stilizatsiyalangan avatari.
 `public/images/schools/teacher-dashboard-a.png` — Ayol o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona.
 `public/images/schools/teacher-dashboard-b.png` — Erkak o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona.

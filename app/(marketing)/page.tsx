@@ -6,7 +6,6 @@ import { Demo } from "@/components/marketing/demo";
 import { Why } from "@/components/marketing/why";
 import { Schools } from "@/components/marketing/schools";
 import { Pricing } from "@/components/marketing/pricing";
-import { Team } from "@/components/marketing/team";
 import { Faq } from "@/components/marketing/faq";
 import { CtaBanner } from "@/components/marketing/footer";
 
@@ -23,7 +22,6 @@ export default function HomePage() {
       <Why />
       <Schools />
       <Pricing />
-      <Team />
       <Faq />
       <CtaBanner />
     </>
