@@ -8,7 +8,7 @@ Bu fayl Codex (yoki boshqa image-gen agent) uchun. Sayt kodi tayyor: har bir ras
 2. Format: **PNG**. "Shaffof" deb belgilangan rasmlar — alpha kanal bilan, fonsiz (kerak bo‘lsa background removal qiling). Qolganlari — to‘liq fonli.
 3. Har bir PNG’dan keyin WebP versiya ham yarating: `cwebp -q 85 file.png -o file.webp` (bir xil papkada, bir xil nom). Kod hozircha `.png` ni ishlatadi.
 4. **Rasmlarda hech qanday matn, harf, raqam, logo yoki brend belgisi bo‘lmasin** (YouTube, Arduino logosi va h.k. ham yo‘q). Matnni sayt o‘zi qo‘shadi.
-5. Odamlar: 13–18 yoshli Markaziy Osiyolik o‘smirlar, xushmuomala, kamtarona kiyim (shortik/ochiq kiyim yo‘q). Qizlar va o‘g‘il bolalar teng ko‘rinsin. Qo‘llar va barmoqlar to‘g‘ri chizilganini tekshiring.
+5. Odamlar: 13–18 yoshli Markaziy Osiyolik o‘smirlar, xushmuomala, kamtarona kiyim (shortik/ochiq kiyim yo‘q). Qizlar va o‘g‘il bolalar teng ko‘rinsin. **Dunyoviy, neytral ko‘rinish: ro‘mol, hijob yoki diniy belgilar yo‘q** (mijoz talabi, batafsil: `CODEX_TASK_NEYTRAL_QAHRAMONLAR.md`). Qo‘llar va barmoqlar to‘g‘ri chizilganini tekshiring.
 6. Har bir rasm uchun o‘zbekcha `alt` matnni `public/images/ALT.md` ga yozing (format: `` `yo‘l` — alt matn ``).
 7. Tugagach, `public/images` ichidagi barcha fayllar ro‘yxatini va o‘lchamlarini (`sips -g pixelWidth -g pixelHeight` yoki `file`) tekshirib chiqing.
 

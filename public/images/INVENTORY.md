@@ -2,8 +2,8 @@
 
 | Fayl | O‘lcham | Alpha | Bayt |
 |---|---|---|---|
-| public/images/hero/hero-student-robot.png | 1600×1200 | ha | 2567224 |
-| public/images/hero/hero-student-robot.webp | 1600×1200 | ha | 257922 |
+| public/images/hero/hero-student-robot.png | 1600×1200 | ha | 2721663 |
+| public/images/hero/hero-student-robot.webp | 1600×1200 | ha | 274098 |
 | public/images/features/ai-tutor.png | 800×800 | ha | 686933 |
 | public/images/features/ai-tutor.webp | 800×800 | ha | 74524 |
 | public/images/features/video-lessons.png | 800×800 | ha | 630762 |
@@ -20,10 +20,10 @@
 | public/images/steps/sinab-kor.webp | 600×600 | ha | 49352 |
 | public/images/steps/yarat.png | 600×600 | ha | 394507 |
 | public/images/steps/yarat.webp | 600×600 | ha | 72318 |
-| public/images/problem/curious-student.png | 900×900 | ha | 1174451 |
-| public/images/problem/curious-student.webp | 900×900 | ha | 134000 |
-| public/images/schools/teacher-dashboard.png | 1400×1000 | yo‘q | 2767660 |
-| public/images/schools/teacher-dashboard.webp | 1400×1000 | yo‘q | 133808 |
+| public/images/problem/curious-student.png | 900×900 | ha | 1138255 |
+| public/images/problem/curious-student.webp | 900×900 | ha | 127444 |
+| public/images/schools/teacher-dashboard.png | 1400×1000 | yo‘q | 3035385 |
+| public/images/schools/teacher-dashboard.webp | 1400×1000 | yo‘q | 170710 |
 | public/images/courses/elektronika.png | 1200×750 | yo‘q | 1220171 |
 | public/images/courses/elektronika.webp | 1200×750 | yo‘q | 59724 |
 | public/images/courses/arduino.png | 1200×750 | yo‘q | 1227503 |
@@ -62,14 +62,14 @@
 | public/images/app/badges/project-author.webp | 256×256 | ha | 13752 |
 | public/images/app/badges/explorer.png | 256×256 | ha | 81221 |
 | public/images/app/badges/explorer.webp | 256×256 | ha | 12684 |
-| public/images/auth/welcome.png | 1000×1200 | ha | 1663921 |
-| public/images/auth/welcome.webp | 1000×1200 | ha | 185314 |
+| public/images/auth/welcome.png | 1000×1200 | ha | 1452200 |
+| public/images/auth/welcome.webp | 1000×1200 | ha | 176224 |
 | public/images/empty/no-courses.png | 500×500 | ha | 254067 |
 | public/images/empty/no-courses.webp | 500×500 | ha | 27166 |
 | public/images/empty/no-results.png | 500×500 | ha | 228853 |
 | public/images/empty/no-results.webp | 500×500 | ha | 48992 |
-| public/og-image.png | 1200×630 | yo‘q | 1175138 |
-| public/og-image.webp | 1200×630 | yo‘q | 49576 |
+| public/og-image.png | 1200×630 | yo‘q | 1047524 |
+| public/og-image.webp | 1200×630 | yo‘q | 40252 |
 | public/images/brand/logo-mark.png | 512×512 | ha | 25487 |
 | public/images/brand/logo-mark.webp | 512×512 | ha | 8334 |
 | public/images/team/zilola.png | 512×512 | yo‘q | 416030 |
@@ -78,3 +78,7 @@
 | public/images/team/rayxona.webp | 512×512 | yo‘q | 20772 |
 | public/images/team/durdona.png | 512×512 | yo‘q | 407734 |
 | public/images/team/durdona.webp | 512×512 | yo‘q | 18756 |
+| public/images/schools/teacher-dashboard-a.png | 1400×1000 | yo‘q | 3035385 |
+| public/images/schools/teacher-dashboard-a.webp | 1400×1000 | yo‘q | 170710 |
+| public/images/schools/teacher-dashboard-b.png | 1400×1000 | yo‘q | 3044459 |
+| public/images/schools/teacher-dashboard-b.webp | 1400×1000 | yo‘q | 163838 |

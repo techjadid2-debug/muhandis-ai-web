@@ -19,7 +19,7 @@ export function AuthCard({ mode }: { mode: "login" | "signup" }) {
       <div className="relative hidden items-center justify-center overflow-hidden bg-gradient-to-br from-[#e6f3fe] via-[#efeaff] to-[#fde9f3] p-12 lg:flex">
         <Blobs variant="corner" />
         <div className="w-full max-w-md">
-          <Illustration src="/images/auth/welcome.png" alt="Qo‘l silkitib kutib olayotgan o‘quvchi va AI robot" width={1000} height={1200} tone="lavender" icon={Hand} label="Kirish illyustratsiyasi (TASK-24)" />
+          <Illustration src="/images/auth/welcome.png" alt="Qo‘l silkitib kutib olayotgan AI robot" width={1000} height={1200} tone="lavender" icon={Hand} label="Kirish illyustratsiyasi (TASK-24)" />
           <p className="mt-6 text-center font-heading text-2xl font-bold text-ink">O‘rgan, sinab ko‘r, yaratuvchiga aylan</p>
         </div>
       </div>

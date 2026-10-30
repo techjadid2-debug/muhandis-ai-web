@@ -1,6 +1,6 @@
 # Rasmlarning o‘zbekcha alt matnlari
 
-`public/images/hero/hero-student-robot.png` — Noutbuk yonida elektronika loyihasini yaratayotgan ikki o‘quvchi va do‘stona AI robot.
+`public/images/hero/hero-student-robot.png` — Noutbuk yonida elektronika loyihasini birga yaratayotgan o‘g‘il va sochi yig‘ilgan qiz, yonida do‘stona AI robot.
 `public/images/features/ai-tutor.png` — Shaxsiy o‘quv xaritasini ushlab turgan AI ustoz roboti.
 `public/images/features/video-lessons.png` — Videodars va mini test tasvirlangan planshet.
 `public/images/features/virtual-lab.png` — LED chirog‘i yonib turgan virtual elektronika laboratoriyasi.
@@ -9,8 +9,8 @@
 `public/images/steps/organ.png` — Sahifalari ustida bilim chirog‘i porlayotgan ochiq kitob.
 `public/images/steps/sinab-kor.png` — Maket platasiga sim ulab, LED chirog‘ini yoqayotgan o‘quvchi qo‘llari.
 `public/images/steps/yarat.png` — Taglik ustida turgan o‘quvchi yasagan g‘ildirakli robot.
-`public/images/problem/curious-student.png` — Murakkab elektr sxemasini ko‘rib o‘yga tolgan o‘quvchi.
-`public/images/schools/teacher-dashboard.png` — O‘quvchilar natijalarini kuzatayotgan o‘qituvchi va yorug‘ texnologiya sinfxonasi.
+`public/images/problem/curious-student.png` — Elektr sxemasini qiziqib o‘rganayotgan mint rang sviterli o‘g‘il bola va AI robot.
+`public/images/schools/teacher-dashboard.png` — Ayol o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona.
 `public/images/courses/elektronika.png` — Rezistor, kondensator, LED va multimetr.
 `public/images/courses/arduino.png` — Servo motor va LED tasmasiga ulangan mikrokontroller platasi.
 `public/images/courses/robototexnika.png` — Robot qo‘li bilan kubikni ko‘tarayotgan g‘ildirakli robot.
@@ -30,11 +30,13 @@
 `public/images/app/badges/test-champion.png` — Test chempioni uchun yulduzli medal.
 `public/images/app/badges/project-author.png` — Loyiha muallifi uchun robotli medal.
 `public/images/app/badges/explorer.png` — Izlanuvchi uchun lupali medal.
-`public/images/auth/welcome.png` — Salom berayotgan o‘quvchi va nurli kalit ushlagan AI robot.
+`public/images/auth/welcome.png` — Nurli eshik yonida qo‘l silkitib, oltin kalit ushlab turgan AI robot.
 `public/images/empty/no-courses.png` — Bo‘sh karton quti ichiga qiziqib qarayotgan AI robot.
 `public/images/empty/no-results.png` — Lupa bilan natijalarni qidirayotgan AI robot.
-`public/og-image.png` — Muhandis AI uchun o‘quvchilar va robot tasvirlangan ulashish banneri.
+`public/og-image.png` — Muhandis AI ulashish banneri: elektronika loyihasini yaratayotgan o‘g‘il, sochi yig‘ilgan qiz va AI robot.
 `public/images/brand/logo-mark.png` — Muhandis AI: pastel rangli fon ustidagi oq elektron zanjir belgisi.
 `public/images/team/zilola.png` — Loyiha menejeri Zilolaning stilizatsiyalangan avatari.
 `public/images/team/rayxona.png` — Marketolog Rayxonaning stilizatsiyalangan avatari.
 `public/images/team/durdona.png` — Dasturchi Durdonaning stilizatsiyalangan avatari.
+`public/images/schools/teacher-dashboard-a.png` — Ayol o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona.
+`public/images/schools/teacher-dashboard-b.png` — Erkak o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona.

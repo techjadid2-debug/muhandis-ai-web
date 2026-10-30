@@ -8,8 +8,8 @@
       "width": 1600,
       "height": 1200,
       "transparent": true,
-      "prompt": "Two Central Asian teenagers, girl and boy, about 15, modest clothes, building a breadboard circuit with laptop and friendly round AI robot at a rounded desk, floating bulb, gear, lightning, check icons.",
-      "alt": "Noutbuk yonida elektronika loyihasini yaratayotgan ikki o‘quvchi va do‘stona AI robot."
+      "prompt": "Central Asian teenage boy in sky blue hoodie and uncovered ponytail girl in lavender hoodie actively building breadboard LED circuit at rounded white desk with laptop and same white AI robot with dark blue face cyan eyes lavender headphones. No head coverings or religious symbols.",
+      "alt": "Noutbuk yonida elektronika loyihasini birga yaratayotgan o‘g‘il va sochi yig‘ilgan qiz, yonida do‘stona AI robot."
     },
     {
       "name": "features/ai-tutor",
@@ -80,16 +80,16 @@
       "width": 900,
       "height": 900,
       "transparent": true,
-      "prompt": "A Central Asian teenage student in modest clothes sitting in front of a generic video player screen, looking confused and thoughtful, hand on chin, floating soft question marks around head. Screen shows abstract complex circuit diagram. Gentle empathetic mood, not sad.",
-      "alt": "Murakkab elektr sxemasini ko‘rib o‘yga tolgan o‘quvchi."
+      "prompt": "Using reference as strict style and robot design reference, create standalone illustration for STEM problem section. One Central Asian teenage boy about 15 with short dark hair in mint green long-sleeved sweater, seated at small rounded white desk with stacked books, hand on chin, curious and thoughtful not sad, studying abstract electronic circuit on monitor. Same small white round AI robot with dark blue face cyan eyes lavender headphones peeking beside monitor. Soft floating question marks. Soft 3D clay matte pastel sky blue lavender blush mint yellow, soft studio light gentle shadows. No head coverings, religious symbols, text, letters, numbers, logos watermark. Square isolated group true transparent background target 900x900.",
+      "alt": "Elektr sxemasini qiziqib o‘rganayotgan mint rang sviterli o‘g‘il bola va AI robot."
     },
     {
       "name": "schools/teacher-dashboard",
       "width": 1400,
       "height": 1000,
       "transparent": false,
-      "prompt": "A bright friendly classroom: a female Central Asian teacher standing next to a large wall screen showing abstract progress charts and colorful bars, several teenage students, girls and boys equally represented in modest clothes at desks using tablets, small electronics kits on desks. Wide view, cozy, plants by window. Full background very light cream #FBFAF7 to light blue gradient.",
-      "alt": "O‘quvchilar natijalarini kuzatayotgan o‘qituvchi va yorug‘ texnologiya sinfxonasi."
+      "prompt": "Wide bright friendly STEM classroom, full cream #FBFAF7 to light blue background. Young adult Central Asian WOMAN teacher, shoulder-length uncovered dark hair in neat blazer long trousers, standing beside large wall display with abstract colorful progress bars and charts NO text. Mixed group of Central Asian teenage boys and girls age 13-18 at desks actively using tablets and small electronics kits; girls uncovered ponytails or loose hair, all modest long-sleeved hoodies sweaters long trousers. Equal participation. Same small friendly white round AI robot as reference with dark blue glowing face cyan happy eyes lavender headphones mint accents on teacher desk. Cozy plants by window. Match reference soft 3D clay rounded matte pastel sky blue lavender blush mint yellow, diffused studio lighting. No hijab headscarves hats religious symbols text letters numbers logos watermark. Landscape 7:5 composition target 1400x1000.",
+      "alt": "Ayol o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona."
     },
     {
       "name": "courses/elektronika",
@@ -248,8 +248,8 @@
       "width": 1000,
       "height": 1200,
       "transparent": true,
-      "prompt": "A cheerful Central Asian teenage student in modest clothes waving hello, standing next to same friendly AI robot who holds a glowing key, a small floating door made of light behind them, welcoming mood. Vertical composition.",
-      "alt": "Salom berayotgan o‘quvchi va nurli kalit ushlagan AI robot."
+      "prompt": "Create vertical welcome illustration with ONLY the exact robot from reference, NO humans. Friendly round white AI robot, dark blue glowing face screen with happy cyan oval eyes, lavender headphones with cyan ear pads, antenna glowing pink tip, mint accents, floating full body, waving hello with one hand holding glowing golden key in other. Behind it small floating rounded lavender door made of soft light opening into pastel sky and clouds, sparkles tiny light bulb and gear. Same soft 3D clay pastel matte style studio lighting as reference. True transparent background, portrait 5:6 composition target 1000x1200, entire group inside frame. No text letters numbers logos watermark.",
+      "alt": "Nurli eshik yonida qo‘l silkitib, oltin kalit ushlab turgan AI robot."
     },
     {
       "name": "empty/no-courses",
@@ -272,8 +272,24 @@
       "width": 1200,
       "height": 630,
       "transparent": false,
-      "prompt": "Wide banner: right side contains hero scene of two Central Asian teenagers in modest clothes, laptop, circuit, same friendly AI robot; left 55% empty soft cream #FBFAF7 space with blurred pastel blobs of sky blue, lavender and pink, reserved for text added later. Full background.",
-      "alt": "Muhandis AI uchun o‘quvchilar va robot tasvirlangan ulashish banneri."
+      "prompt": "Create wide social sharing banner target 1200x630 aspect 40:21 full opaque background. Use EXACT same boy, uncovered dark ponytail girl in lavender hoodie and white AI robot with lavender headphones as supplied hero reference; they build same electronic LED breadboard at rounded desk with laptop. Scale complete hero group into RIGHT 45% of banner, leave LEFT 55% EMPTY cream #FBFAF7 with subtle blurred pastel sky blue lavender blush blobs. Keep entire heads hands robot and desk inside frame. Same soft 3D clay matte pastel style soft diffused lighting as reference. No head coverings religious symbols, no text letters numbers logos watermark. No extra people. Text space MUST remain blank. Layout refinement: shrink entire group and move right, left 55% blank cream pastel blobs.",
+      "alt": "Muhandis AI ulashish banneri: elektronika loyihasini yaratayotgan o‘g‘il, sochi yig‘ilgan qiz va AI robot."
+    },
+    {
+      "name": "schools/teacher-dashboard-a",
+      "width": 1400,
+      "height": 1000,
+      "transparent": false,
+      "prompt": "Wide bright friendly STEM classroom, full cream #FBFAF7 to light blue background. Young adult Central Asian WOMAN teacher, shoulder-length uncovered dark hair in neat blazer long trousers, standing beside large wall display with abstract colorful progress bars and charts NO text. Mixed group of Central Asian teenage boys and girls age 13-18 at desks actively using tablets and small electronics kits; girls uncovered ponytails or loose hair, all modest long-sleeved hoodies sweaters long trousers. Equal participation. Same small friendly white round AI robot as reference with dark blue glowing face cyan happy eyes lavender headphones mint accents on teacher desk. Cozy plants by window. Match reference soft 3D clay rounded matte pastel sky blue lavender blush mint yellow, diffused studio lighting. No hijab headscarves hats religious symbols text letters numbers logos watermark. Landscape 7:5 composition target 1400x1000.",
+      "alt": "Ayol o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona."
+    },
+    {
+      "name": "schools/teacher-dashboard-b",
+      "width": 1400,
+      "height": 1000,
+      "transparent": false,
+      "prompt": "Wide bright friendly STEM classroom, full cream #FBFAF7 to light blue background. Young adult Central Asian MAN teacher, short dark hair in mint-green sweater long trousers, standing beside large wall display with abstract colorful progress bars and charts NO text. Mixed group of Central Asian teenage boys and girls age 13-18 at desks actively using tablets and small electronics kits; girls uncovered ponytails or loose hair, all modest long-sleeved hoodies sweaters long trousers. Equal participation. Same small friendly white round AI robot as reference with dark blue glowing face cyan happy eyes lavender headphones mint accents on teacher desk. Cozy plants by window. Match reference soft 3D clay rounded matte pastel sky blue lavender blush mint yellow, diffused studio lighting. No hijab headscarves hats religious symbols text letters numbers logos watermark. Landscape 7:5 composition target 1400x1000.",
+      "alt": "Erkak o‘qituvchi, elektronika loyihalari ustida ishlayotgan o‘g‘il-qizlar va AI robot tasvirlangan sinfxona."
     }
   ],
   "logo": {
